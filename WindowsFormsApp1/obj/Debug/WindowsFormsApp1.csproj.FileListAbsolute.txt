@@ -1,0 +1,11 @@
+C:\Users\admin\source\Geo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\source\Geo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\source\Geo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\source\Geo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\admin\source\Geo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\Geo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GeneralWindow.resources
+C:\Users\admin\source\Geo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\source\Geo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\source\Geo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\Geo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\source\Geo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
